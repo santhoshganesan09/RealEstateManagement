@@ -16,7 +16,7 @@ public class PropertyBedroomDetailsDTO {
     private int bathrooms;
     private int balconies;
     private int floor;
-//
-//    private Long propertyId; // Store only ID instead of full PropertyEntity
+
+    private Long propertyId; // Store only ID instead of full PropertyEntity
 
 }
